@@ -1,0 +1,7 @@
+requests>=2.31.0
+colorama>=0.4.6
+tqdm>=4.66.0
+dnspython>=2.6.0
+fpdf2>=2.7.9
+python-whois>=0.9.4
+googlesearch-python>=1.2.3
